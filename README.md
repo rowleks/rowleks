@@ -8,7 +8,13 @@ I write articles on Medium and Substack, and I’m currently building [VetDraft]
 
 Reach me on:
 
-[LinkedIn](https://linkedin.com/in/rowland-momoh) | [Email](mailto:momohrowland@gmail.com) | [X](https://x.com/rolex_devv) | [Substack](https://substack.com/@rowleks) | [Medium](https://medium.com/@rowleks)
+<p>
+  <a href="https://linkedin.com/in/rowland-momoh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="mailto:momohrowland@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;&nbsp;
+  <a href="https://x.com/rolex_devv"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>&nbsp;&nbsp;
+  <a href="https://substack.com/@rowleks"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"></a>&nbsp;&nbsp;
+  <a href="https://medium.com/@rowleks"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+</p>
 
 ## Skills and Technologies
 
