@@ -1,12 +1,12 @@
 # Introduction
 
-Hello, I'm Rowland, a full‑stack developer who cares deeply about writing clean, maintainable code, building real products that solve real users' problems, improve the customer experience, and learning more about software.
+Hello, I'm Rowland, a full‑stack developer who cares deeply about writing clean, maintainable code, building apps that genuinely solve user problems, and continuously expanding my software development knowledge.
 
-I am studying for a B.S. in Software Development at Brigham Young University-Idaho. I also hold a B.Ed. in Mathematics Education from Kogi State University. Outside of work, I enjoy reading, writing, chess, football, and puzzles.
+I am studying for a B.S. in Software Development at Brigham Young University-Idaho. I also hold a B.Ed. in Mathematics Education from Kogi State University. Outside of programming, I enjoy reading, writing, chess, football, and puzzles.
 
-I write articles on Medium and Substack, I'm currently building Vetdraft which is an AI-powered writing app that helps writer produce better piece.
+I write articles on Medium and Substack, and I’m currently building [VetDraft](https://vetdraft-orcin.vercel.app/), an AI-powered writing app that helps writers produce better pieces.
 
-Connect with me on:
+Reach me on:
 
 [LinkedIn](https://linkedin.com/in/rowland-momoh) | [Email](mailto:momohrowland@gmail.com) | [X](https://x.com/rolex_devv) | [Substack](https://substack.com/@rowleks) | [Medium](https://medium.com/@rowleks)
 
@@ -79,6 +79,12 @@ A book catalog API with user accounts, reading lists, and book reviews.
 
 **Technologies:** Node.js, Express, MongoDB, Mongoose, Passport, JWT, Swagger.
 
+#### [SleepOutside (WDD 330 Team Project)](https://github.com/rowleks/wdd330-team15)
+
+A team-built online storefront for browsing outdoor gear, viewing product details, and managing a shopping cart. [View the live site](https://wdd330-team15.onrender.com/).
+
+**Technologies:** JavaScript, HTML, CSS, Vite.
+
 #### [BookHive (WDD 231)](https://github.com/rowleks/wdd231/tree/main/final-project)
 
 An online bookstore where readers can search and filter books, view details, and save favorites.
@@ -102,15 +108,13 @@ A job search app for finding and filtering listings, saving favorites, and track
 - [Everything You Need to Know About Agents: How to Create Agents and Subagents for Opencode, Claude Code and Others](https://medium.com/@rowleks/everything-you-need-to-know-about-agents-how-to-create-agents-and-subagents-for-opencode-claude-03c027346015)
 - [Understanding Webhooks (Part 1): How to Consume Events in Real-Time Production Systems](https://medium.com/@rowleks/understanding-webhooks-part-1-how-to-consume-events-in-real-time-production-systems-fd69474df9c9)
 - [Everything You Need to Know About the Latest AI Model "Jev"](https://medium.com/@rowleks/everything-you-need-to-know-about-the-latest-ai-model-jev-4f25166db804)
-- [How to Accurately Evaluate the Performance of Algorithms Using Big O Notations](https://medium.com/stackademic/how-to-accurately-evaluate-the-performance-of-algorithms-using-big-o-notations-667d5ef1d242)
-- [Everything I Learned from Reading "The Pragmatic Programmer"](https://medium.com/stackademic/everything-i-learned-from-reading-the-pragmatic-programmer-2c0dfbcdf0b8)
 - [Why I'm Giving Up on Web Development and Why You Should Too](https://javascript.plainenglish.io/why-im-giving-up-on-web-development-and-why-you-should-too-024281308d8f)
+- [Everything I Learned from Reading "The Pragmatic Programmer"](https://medium.com/stackademic/everything-i-learned-from-reading-the-pragmatic-programmer-2c0dfbcdf0b8)
+- [How to Accurately Evaluate the Performance of Algorithms Using Big O Notations](https://medium.com/stackademic/how-to-accurately-evaluate-the-performance-of-algorithms-using-big-o-notations-667d5ef1d242)
 - [Docker Fundamentals (Part 3): Building and Managing Containers with Dockerfile & docker-compose](https://medium.com/stackademic/docker-fundamentals-part-3-building-and-managing-containers-with-dockerfile-docker-compose-6c6e0eaa3831)
 
 More articles on [Medium](https://medium.com/@rowleks).
 
 ## GitHub Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rowleks&show_icons=true&hide_title=true&include_all_commits=true)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rowleks&layout=compact)
+![Contribution activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rowleks&theme=github)
