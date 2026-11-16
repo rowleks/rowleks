@@ -21,35 +21,35 @@ Reach me on:
 **Frontend**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="36" height="36">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="36" height="36">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="36" height="36">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="36" height="36">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="36" height="36">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="36" height="36">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" alt="SvelteKit" title="SvelteKit" width="36" height="36">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS" title="CSS" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" title="Tailwind CSS" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000#gh-light-mode-only" alt="Next.js" title="Next.js" width="36" height="36"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF#gh-dark-mode-only" alt="Next.js" title="Next.js" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/svelte/FF3E00" alt="SvelteKit" title="SvelteKit" width="36" height="36">
 </p>
 
 **Backend**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="36" height="36">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" title="Express" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" title="Node.js" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/000000#gh-light-mode-only" alt="Express" title="Express" width="36" height="36"><img src="https://cdn.simpleicons.org/express/FFFFFF#gh-dark-mode-only" alt="Express" title="Express" width="36" height="36">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" alt="REST APIs" title="REST APIs" width="36" height="36">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/graphql/E10098" alt="GraphQL" title="GraphQL" width="36" height="36">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" width="36" height="36">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="36" height="36">
 </p>
 
 **Data**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="36" height="36">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" width="36" height="36">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="36" height="36">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" title="PostgreSQL" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" title="SQLite" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/redis/FF4438" alt="Redis" title="Redis" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/2D3748#gh-light-mode-only" alt="Prisma" title="Prisma" width="36" height="36"><img src="https://cdn.simpleicons.org/prisma/FFFFFF#gh-dark-mode-only" alt="Prisma" title="Prisma" width="36" height="36">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/drizzle/C5F74F" alt="Drizzle ORM" title="Drizzle ORM" width="36" height="36">
 </p>
 
@@ -66,19 +66,19 @@ Reach me on:
 **Development Tools**
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="36" height="36">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="36" height="36">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="36" height="36">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="36" height="36">
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/181717#gh-light-mode-only" alt="GitHub" title="GitHub" width="36" height="36"><img src="https://cdn.simpleicons.org/github/FFFFFF#gh-dark-mode-only" alt="GitHub" title="GitHub" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" title="GitHub Actions" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" width="36" height="36">
 </p>
 
 **AI Tools**
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antigravity/antigravity-original.svg" alt="Antigravity" title="Antigravity" width="36" height="36">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" alt="Claude Code" title="Claude Code" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/claude/D97757" alt="Claude Code" title="Claude Code" width="36" height="36">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codex/codex-original.svg" alt="Codex" title="Codex" width="36" height="36">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/opencode" alt="OpenCode" title="OpenCode" width="36" height="36" color="white">
+  <img src="https://cdn.simpleicons.org/opencode/FFFFFF" alt="OpenCode" title="OpenCode" width="36" height="36">
 </p>
 
 ## Projects
@@ -88,14 +88,14 @@ Reach me on:
 An AI-powered writing app for drafting, revising, and publishing. It includes inline rewrites, version history, and export to other blog platforms like Medium and Substack.
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" alt="SvelteKit" title="SvelteKit" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/svelte/FF3E00" alt="SvelteKit" title="SvelteKit" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" title="PostgreSQL" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/drizzle/C5F74F" alt="Drizzle ORM" title="Drizzle ORM" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/betterauth" alt="Better Auth" title="Better Auth" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/betterauth/6C5CE7" alt="Better Auth" title="Better Auth" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/type.svg" alt="Tiptap" title="Tiptap" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel AI SDK" title="Vercel AI SDK" width="24" height="24">
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" title="Tailwind CSS" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/000000#gh-light-mode-only" alt="Vercel AI SDK" title="Vercel AI SDK" width="24" height="24"><img src="https://cdn.simpleicons.org/vercel/FFFFFF#gh-dark-mode-only" alt="Vercel AI SDK" title="Vercel AI SDK" width="24" height="24">
 </p>
 
 #### [Tgramcleaner](https://tgramcleaner.onrender.com)
@@ -103,12 +103,12 @@ An AI-powered writing app for drafting, revising, and publishing. It includes in
 A real-time tool for managing Telegram accounts and clearing unwanted groups and channels in bulk. It provides live progress, Telegram login, two-factor authentication, and audit logs.
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" title="Express" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" alt="Socket.IO" title="Socket.IO" width="24" height="24">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" title="Node.js" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/000000#gh-light-mode-only" alt="Express" title="Express" width="24" height="24"><img src="https://cdn.simpleicons.org/express/FFFFFF#gh-dark-mode-only" alt="Express" title="Express" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" title="SQLite" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/socketdotio/010101#gh-light-mode-only" alt="Socket.IO" title="Socket.IO" width="24" height="24"><img src="https://cdn.simpleicons.org/socketdotio/FFFFFF#gh-dark-mode-only" alt="Socket.IO" title="Socket.IO" width="24" height="24">
 </p>
 
 ### Full Stack Open
@@ -124,12 +124,12 @@ My coursework repository includes exercises and applications from Parts 0-9, inc
 A blog app where users can share links, like posts, and save them to a personal reading list.
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000#gh-light-mode-only" alt="Next.js" title="Next.js" width="24" height="24"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF#gh-dark-mode-only" alt="Next.js" title="Next.js" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" title="PostgreSQL" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/drizzle/C5F74F" alt="Drizzle ORM" title="Drizzle ORM" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jwt/jwt-original.svg" alt="NextAuth" title="NextAuth" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="24" height="24">
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" title="Tailwind CSS" width="24" height="24">
 </p>
 
 #### [fso-rdb](https://github.com/rowleks/fso-rdb)
@@ -137,12 +137,12 @@ A blog app where users can share links, like posts, and save them to a personal 
 A backend API for managing blog posts and user accounts, with authentication and a relational database.
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" title="Express" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" alt="Sequelize" title="Sequelize" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" title="Node.js" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/000000#gh-light-mode-only" alt="Express" title="Express" width="24" height="24"><img src="https://cdn.simpleicons.org/express/FFFFFF#gh-dark-mode-only" alt="Express" title="Express" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" title="PostgreSQL" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/sequelize/52B0E7" alt="Sequelize" title="Sequelize" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jwt/jwt-original.svg" alt="JWT" title="JWT" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="24" height="24">
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" width="24" height="24">
 </p>
 
 #### [fso-ci-phonebook](https://github.com/rowleks/fso-ci-phonebook)
@@ -150,12 +150,12 @@ A backend API for managing blog posts and user accounts, with authentication and
 A contact manager for searching, adding, and removing phonebook entries. It also has an automated build and deployment workflow and scheduled health checks.
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" title="React" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" alt="Vite" title="Vite" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" title="Express" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="24" height="24">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" title="Vite" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" title="Node.js" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/000000#gh-light-mode-only" alt="Express" title="Express" width="24" height="24"><img src="https://cdn.simpleicons.org/express/FFFFFF#gh-dark-mode-only" alt="Express" title="Express" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" title="GitHub Actions" width="24" height="24">
 </p>
 
 #### [fso-rate-app](https://github.com/rowleks/fso-rate-app)
@@ -164,9 +164,9 @@ A mobile app for browsing GitHub repositories, reading reviews, and submitting r
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" alt="React Native" title="React Native" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/expo/expo-original.svg" alt="Expo" title="Expo" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/expo/FFFFFF" alt="Expo" title="Expo" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/graphql/E10098" alt="GraphQL" title="GraphQL" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/apollographql/311C87" alt="Apollo Client" title="Apollo Client" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apollographql/6F42C1" alt="Apollo Client" title="Apollo Client" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/reactrouter/CA4245" alt="React Router Native" title="React Router Native" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/jest/C21325" alt="Jest" title="Jest" width="24" height="24">
 </p>
@@ -178,10 +178,10 @@ A mobile app for browsing GitHub repositories, reading reviews, and submitting r
 A community website with a local business directory, membership sign-up, local events, and weather information.
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS" title="CSS" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/django/092E20" alt="Django" title="Django" width="24" height="24">
 </p>
 
@@ -190,13 +190,13 @@ A community website with a local business directory, membership sign-up, local e
 A book catalog API with user accounts, reading lists, and book reviews.
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" title="Node.js" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" title="Express" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" title="Node.js" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/000000#gh-light-mode-only" alt="Express" title="Express" width="24" height="24"><img src="https://cdn.simpleicons.org/express/FFFFFF#gh-dark-mode-only" alt="Express" title="Express" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" alt="Mongoose" title="Mongoose" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/passport/passport-original.svg" alt="Passport" title="Passport" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/passport/34E27A" alt="Passport" title="Passport" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jwt/jwt-original.svg" alt="JWT" title="JWT" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" title="Swagger" width="24" height="24">
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" alt="Swagger" title="Swagger" width="24" height="24">
 </p>
 
 #### [SleepOutside (WDD 330 Team Project)](https://github.com/rowleks/wdd330-team15)
@@ -204,10 +204,10 @@ A book catalog API with user accounts, reading lists, and book reviews.
 A team-built online storefront for browsing outdoor gear, viewing product details, and managing a shopping cart. [View the live site](https://wdd330-team15.onrender.com/).
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" alt="Vite" title="Vite" width="24" height="24">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS" title="CSS" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" title="Vite" width="24" height="24">
 </p>
 
 #### [BookHive (WDD 231)](https://github.com/rowleks/wdd231/tree/main/final-project)
@@ -215,11 +215,11 @@ A team-built online storefront for browsing outdoor gear, viewing product detail
 An online bookstore where readers can search and filter books, view details, and save favorites.
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" title="CSS" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Google Books API" title="Google Books API" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/database.svg" alt="Local storage" title="Local storage" width="24" height="24">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css/1572B6" alt="CSS" title="CSS" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/google/4285F4" alt="Google Books API" title="Google Books API" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="Local storage" title="Local storage" width="24" height="24">
 </p>
 
 #### [Personal Portfolio (WDD 430)](https://github.com/rowleks/wdd430-portfolio)
@@ -227,9 +227,9 @@ An online bookstore where readers can search and filter books, view details, and
 A portfolio website for presenting my projects and background. [View the live site](https://wdd430-portfolio-rho.vercel.app/).
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" title="Next.js" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" title="TypeScript" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="24" height="24">
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000#gh-light-mode-only" alt="Next.js" title="Next.js" width="24" height="24"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF#gh-dark-mode-only" alt="Next.js" title="Next.js" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" title="Tailwind CSS" width="24" height="24">
 </p>
 
 #### [Hyerd (WDD 330)](https://github.com/rowleks/hyerd)
@@ -237,10 +237,10 @@ A portfolio website for presenting my projects and background. [View the live si
 A job search app for finding and filtering listings, saving favorites, and tracking applications.
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" title="HTML" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" title="Tailwind CSS" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" alt="Vite" title="Vite" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" title="Tailwind CSS" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" title="Vite" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" alt="JSearch API" title="JSearch API" width="24" height="24">
 </p>
 
