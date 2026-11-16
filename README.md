@@ -27,7 +27,7 @@ Reach me on:
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" width="36" height="36">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="36" height="36">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" width="36" height="36">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000#gh-light-mode-only" alt="Next.js" title="Next.js" width="36" height="36"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF#gh-dark-mode-only" alt="Next.js" title="Next.js" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF#gh-dark-mode-only" alt="Next.js" title="Next.js" width="36" height="36">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/svelte/FF3E00" alt="SvelteKit" title="SvelteKit" width="36" height="36">
 </p>
 
@@ -35,7 +35,7 @@ Reach me on:
 
 <p>
   <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" title="Node.js" width="36" height="36">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/express/000000#gh-light-mode-only" alt="Express" title="Express" width="36" height="36"><img src="https://cdn.simpleicons.org/express/FFFFFF#gh-dark-mode-only" alt="Express" title="Express" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/FFFFFF#gh-dark-mode-only" alt="Express" title="Express" width="36" height="36">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" alt="REST APIs" title="REST APIs" width="36" height="36">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/graphql/E10098" alt="GraphQL" title="GraphQL" width="36" height="36">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" width="36" height="36">&nbsp;&nbsp;
@@ -49,7 +49,7 @@ Reach me on:
   <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB" width="36" height="36">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" title="SQLite" width="36" height="36">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/redis/FF4438" alt="Redis" title="Redis" width="36" height="36">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/prisma/2D3748#gh-light-mode-only" alt="Prisma" title="Prisma" width="36" height="36"><img src="https://cdn.simpleicons.org/prisma/FFFFFF#gh-dark-mode-only" alt="Prisma" title="Prisma" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/FFFFFF#gh-dark-mode-only" alt="Prisma" title="Prisma" width="36" height="36">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/drizzle/C5F74F" alt="Drizzle ORM" title="Drizzle ORM" width="36" height="36">
 </p>
 
@@ -67,7 +67,7 @@ Reach me on:
 
 <p>
   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" width="36" height="36">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/181717#gh-light-mode-only" alt="GitHub" title="GitHub" width="36" height="36"><img src="https://cdn.simpleicons.org/github/FFFFFF#gh-dark-mode-only" alt="GitHub" title="GitHub" width="36" height="36">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/FFFFFF#gh-dark-mode-only" alt="GitHub" title="GitHub" width="36" height="36">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" title="GitHub Actions" width="36" height="36">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" width="36" height="36">
 </p>
@@ -95,7 +95,7 @@ An AI-powered writing app for drafting, revising, and publishing. It includes in
   <img src="https://cdn.simpleicons.org/betterauth/6C5CE7" alt="Better Auth" title="Better Auth" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/type.svg" alt="Tiptap" title="Tiptap" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" title="Tailwind CSS" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/vercel/000000#gh-light-mode-only" alt="Vercel AI SDK" title="Vercel AI SDK" width="24" height="24"><img src="https://cdn.simpleicons.org/vercel/FFFFFF#gh-dark-mode-only" alt="Vercel AI SDK" title="Vercel AI SDK" width="24" height="24">
+  <img src="https://cdn.simpleicons.org/vercel/FFFFFF#gh-dark-mode-only" alt="Vercel AI SDK" title="Vercel AI SDK" width="24" height="24">
 </p>
 
 #### [Tgramcleaner](https://tgramcleaner.onrender.com)
@@ -106,9 +106,9 @@ A real-time tool for managing Telegram accounts and clearing unwanted groups and
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" title="Node.js" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/express/000000#gh-light-mode-only" alt="Express" title="Express" width="24" height="24"><img src="https://cdn.simpleicons.org/express/FFFFFF#gh-dark-mode-only" alt="Express" title="Express" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/FFFFFF#gh-dark-mode-only" alt="Express" title="Express" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" title="SQLite" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/socketdotio/010101#gh-light-mode-only" alt="Socket.IO" title="Socket.IO" width="24" height="24"><img src="https://cdn.simpleicons.org/socketdotio/FFFFFF#gh-dark-mode-only" alt="Socket.IO" title="Socket.IO" width="24" height="24">
+  <img src="https://cdn.simpleicons.org/socketdotio/FFFFFF#gh-dark-mode-only" alt="Socket.IO" title="Socket.IO" width="24" height="24">
 </p>
 
 ### Full Stack Open
@@ -124,7 +124,7 @@ My coursework repository includes exercises and applications from Parts 0-9, inc
 A blog app where users can share links, like posts, and save them to a personal reading list.
 
 <p>
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000#gh-light-mode-only" alt="Next.js" title="Next.js" width="24" height="24"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF#gh-dark-mode-only" alt="Next.js" title="Next.js" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF#gh-dark-mode-only" alt="Next.js" title="Next.js" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" title="PostgreSQL" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/drizzle/C5F74F" alt="Drizzle ORM" title="Drizzle ORM" width="24" height="24">&nbsp;&nbsp;
@@ -138,7 +138,7 @@ A backend API for managing blog posts and user accounts, with authentication and
 
 <p>
   <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" title="Node.js" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/express/000000#gh-light-mode-only" alt="Express" title="Express" width="24" height="24"><img src="https://cdn.simpleicons.org/express/FFFFFF#gh-dark-mode-only" alt="Express" title="Express" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/FFFFFF#gh-dark-mode-only" alt="Express" title="Express" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" title="PostgreSQL" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/sequelize/52B0E7" alt="Sequelize" title="Sequelize" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jwt/jwt-original.svg" alt="JWT" title="JWT" width="24" height="24">&nbsp;&nbsp;
@@ -153,7 +153,7 @@ A contact manager for searching, adding, and removing phonebook entries. It also
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/vite/646CFF" alt="Vite" title="Vite" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" title="Node.js" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/express/000000#gh-light-mode-only" alt="Express" title="Express" width="24" height="24"><img src="https://cdn.simpleicons.org/express/FFFFFF#gh-dark-mode-only" alt="Express" title="Express" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/FFFFFF#gh-dark-mode-only" alt="Express" title="Express" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" title="GitHub Actions" width="24" height="24">
 </p>
@@ -191,7 +191,7 @@ A book catalog API with user accounts, reading lists, and book reviews.
 
 <p>
   <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" title="Node.js" width="24" height="24">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/express/000000#gh-light-mode-only" alt="Express" title="Express" width="24" height="24"><img src="https://cdn.simpleicons.org/express/FFFFFF#gh-dark-mode-only" alt="Express" title="Express" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/FFFFFF#gh-dark-mode-only" alt="Express" title="Express" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" title="MongoDB" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" alt="Mongoose" title="Mongoose" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/passport/34E27A" alt="Passport" title="Passport" width="24" height="24">&nbsp;&nbsp;
@@ -227,7 +227,7 @@ An online bookstore where readers can search and filter books, view details, and
 A portfolio website for presenting my projects and background. [View the live site](https://wdd430-portfolio-rho.vercel.app/).
 
 <p>
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000#gh-light-mode-only" alt="Next.js" title="Next.js" width="24" height="24"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF#gh-dark-mode-only" alt="Next.js" title="Next.js" width="24" height="24">&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF#gh-dark-mode-only" alt="Next.js" title="Next.js" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="24" height="24">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" title="Tailwind CSS" width="24" height="24">
 </p>
