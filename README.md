@@ -116,15 +116,15 @@ A real-time tool for managing Telegram accounts and clearing unwanted groups and
 
 ### Full Stack Open
 
-[Full Stack Open](https://fullstackopen.com/en) is a multi-part course from the University of Helsinki covering modern full-stack development. It starts with React applications and backend APIs, then moves into databases, state management with Redux, GraphQL, TypeScript, mobile development with React Native, and CI/CD.
+[Full Stack Open](https://fullstackopen.com/en) is a University of Helsinki course focused on building modern JavaScript web applications, especially React frontends that use Node.js REST APIs. Its parts build from frontend and backend fundamentals into databases, state management with Redux, GraphQL, TypeScript, mobile development with React Native, and CI/CD.
 
 #### [fullstackopen](https://github.com/rowleks/fullstackopen)
 
-My coursework repository contains exercises and applications from Parts 0–9, such as blog and library apps.
+My coursework repository contains exercises and applications from Parts 0–9, providing hands-on practice with the concepts taught throughout the course.
 
 #### [fso-next-blog](https://github.com/rowleks/fso-next-blog)
 
-A blog app where users can share links, like posts, and save them to a personal reading list.
+A blog app where users can share links, like posts, and save them to a personal reading list. It applies full-stack course concepts to a content-sharing product with user accounts and persistent data.
 
 <p>
   <img src="https://cdn.simpleicons.org/nextdotjs/000000#gh-light-mode-only" alt="Next.js" title="Next.js" width="24" height="24"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF#gh-dark-mode-only" alt="Next.js" title="Next.js" width="24" height="24">  
@@ -137,7 +137,7 @@ A blog app where users can share links, like posts, and save them to a personal 
 
 #### [fso-rdb](https://github.com/rowleks/fso-rdb)
 
-A backend API for managing blog posts and user accounts, with authentication and a relational database.
+A backend API for managing blog posts and user accounts. This project focuses on relational data modeling, REST endpoints, authentication, and running PostgreSQL for development and tests.
 
 <p>
   <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" title="Node.js" width="24" height="24">  
@@ -150,7 +150,7 @@ A backend API for managing blog posts and user accounts, with authentication and
 
 #### [fso-ci-phonebook](https://github.com/rowleks/fso-ci-phonebook)
 
-A contact manager for searching, adding, and removing phonebook entries. It also features an automated CI/CD workflow and scheduled health checks.
+A contact manager for searching, adding, and removing phonebook entries. It demonstrates how to automate build and deployment workflows and check that a deployed app remains available.
 
 <p>
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" width="24" height="24">  
@@ -163,7 +163,7 @@ A contact manager for searching, adding, and removing phonebook entries. It also
 
 #### [fso-rate-app](https://github.com/rowleks/fso-rate-app)
 
-A mobile app for browsing GitHub repositories, reading reviews, and submitting ratings.
+A mobile app for browsing GitHub repositories, reading reviews, and submitting ratings. It applies the course's mobile development material to a client app that works with a GraphQL service.
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" alt="React Native" title="React Native" width="24" height="24">  
@@ -178,7 +178,7 @@ A mobile app for browsing GitHub repositories, reading reviews, and submitting r
 
 #### [Object-Oriented Programming Projects (CSE 210)](https://github.com/rowleks/cse210)
 
-Coursework projects include an online ordering system, a goal tracker, an exercise activity tracker, and a scripture memorizer, built with object-oriented C#.
+CSE 210 introduces object-oriented programming and using classes to organize programs. My C# coursework applies those ideas in an online ordering system, a goal tracker, an exercise activity tracker, and a scripture memorizer.
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="24" height="24">  
@@ -187,7 +187,7 @@ Coursework projects include an online ordering system, a goal tracker, an exerci
 
 #### [Data Structures and Algorithms (CSE 212)](https://github.com/rowleks/cse212)
 
-Coursework implementing and testing arrays, queues, sets and maps, linked lists, recursion, binary search trees, and searching and sorting algorithms in C#.
+CSE 212 focuses on how data structures and algorithms organize and process information. My C# coursework implements and tests arrays, queues, sets and maps, linked lists, recursion, binary search trees, and searching and sorting algorithms.
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#" width="24" height="24">  
@@ -196,7 +196,7 @@ Coursework implementing and testing arrays, queues, sets and maps, linked lists,
 
 #### [Readlyst API (CSE 341)](https://github.com/rowleks/cse341-readlyst-api)
 
-A book catalog API with user accounts, reading lists, and book reviews.
+A book catalog API with user accounts, reading lists, and book reviews. It applies backend development concepts to a REST service, including data storage, authentication, and API documentation.
 
 <p>
   <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" title="Node.js" width="24" height="24">  
@@ -210,7 +210,7 @@ A book catalog API with user accounts, reading lists, and book reviews.
 
 #### [SleepOutside (WDD 330 Team Project)](https://github.com/rowleks/wdd330-team15)
 
-A team-built online storefront for browsing outdoor gear, viewing product details, and managing a shopping cart. [View the live site](https://wdd330-team15.onrender.com/).
+A team-built online storefront for browsing outdoor gear, viewing product details, searching products, and managing a shopping cart. Working on this project strengthened my teamwork and collaboration skills through shared development and code reviews, while applying frontend skills to a multi-page shopping experience. [View the live site](https://wdd330-team15.onrender.com/).
 
 <p>
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" width="24" height="24">  
@@ -221,7 +221,7 @@ A team-built online storefront for browsing outdoor gear, viewing product detail
 
 #### [BookHive (WDD 231)](https://github.com/rowleks/wdd231/tree/main/final-project)
 
-An online bookstore where readers can search and filter books, view details, and save favorites in localStorage.
+An online bookstore where readers can browse and search books from the Google Books API, filter by category, view details, and save favorites in localStorage. It demonstrates building a responsive site with modular JavaScript and external API data.
 
 <p>
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" title="HTML" width="24" height="24">  
@@ -232,7 +232,7 @@ An online bookstore where readers can search and filter books, view details, and
 
 #### [Personal Portfolio (WDD 430)](https://github.com/rowleks/wdd430-portfolio)
 
-A portfolio website for presenting my projects and background. [View the live site](https://wdd430-portfolio-rho.vercel.app/).
+A portfolio website for presenting my projects and background, built and deployed as a modern web application. [View the live site](https://wdd430-portfolio-rho.vercel.app/).
 
 <p>
   <img src="https://cdn.simpleicons.org/nextdotjs/000000#gh-light-mode-only" alt="Next.js" title="Next.js" width="24" height="24"><img src="https://cdn.simpleicons.org/nextdotjs/FFFFFF#gh-dark-mode-only" alt="Next.js" title="Next.js" width="24" height="24">  
@@ -242,7 +242,7 @@ A portfolio website for presenting my projects and background. [View the live si
 
 #### [Hyerd (WDD 330)](https://github.com/rowleks/hyerd)
 
-A job search app for finding and filtering listings, saving favorites, and tracking applications.
+A job search app for finding and filtering listings, saving favorites, and tracking applications. It brings frontend skills and job-listing API data together in a practical search workflow.
 
 <p>
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" width="24" height="24">  
